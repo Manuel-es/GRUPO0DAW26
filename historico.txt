@@ -1,0 +1,11 @@
+He realizado la descarga del proyecto completo y en los comandos git he preparado para subir los archivos mencionados pertenecientes al integrante 3. 
+
+Luego de eso, he modificado el archivo Config.php para poder conectar la base de datos con los datos que me ha proporcionado el integrante 2.
+Después de ello, he cambiado las rutas del include de index.php para que buscará los archivos de app dejando dicha carpeta fuera de la ruta de la web para que cualquier usuario no fuera visible.
+
+Hemos tenido algunos problemas al comprender las rutas que se han solucionado al exponer las ideas en conjunto y entender el problema.
+Luego he subido todos los cambios y ya el compañero 2 lo ha integrado ha habido en el despliegue algunos errores en las rutas del index que se han modificado para que el sistema encuentre los archivos y tuvimos unos problemas en config.php ya que estaban mal los datos y no hacía peticiones a phpmyadmin lo cual hemos solventado y solucionado y agregado un alimento 'Pepsi' en funcionamiento para probar.
+
+
+
+ENLACE: http://proyectogrupo0.alwaysdata.net/
