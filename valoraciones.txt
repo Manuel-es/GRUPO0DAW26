@@ -1,0 +1,21 @@
+VALORACIONES DE LA EXPERIENCIA - PROYECTO GRUPOXDAW26
+
+-INTEGRANTE 1 (Administración del repo y Front-End)
+Nombre: Manuel Escudero Almendral
+Valoración:
+La configuración inicial del repositorio público y la gestión de colaboradores fue sencilla. 
+La organización de la vista y recursos front-end se mantuvo conforme a la estructura MVC solicitada, 
+incorporando los ficheros no utilizados requeridos en las carpetas de recursos sin alterar el funcionamiento del proyecto.
+
+-INTEGRANTE 2 (Hosting, Base de Datos y Despliegue)
+Nombre: Miguel Ángel Pérez González
+Valoración:
+La experiencia con el despliegue en Alwaysdata y la gestión de la base de datos MySQL ha sido muy práctica para entender 
+cómo funciona un entorno real de producción. La creación de la base de datos y la ejecución de 
+la sentencia SQL para la tabla alimentos funcionaron a la primera.
+
+-INTEGRANTE 3 (Controlador, Configuración e Histórico)
+Nombre: Jose luis Medina Sanz
+Valoración:
+Trabajar sobre un proyecto MVC ya estructurado me permitió centrarme en entender cómo se comunican el 
+controlador frontal (index.php) y las acciones (Controller.php) con el modelo a través de Config.php.
