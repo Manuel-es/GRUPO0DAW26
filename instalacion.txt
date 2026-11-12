@@ -1,0 +1,23 @@
+____________________________
+
+        COMANDO SSH
+____________________________
+
+Credenciales:
+
+        Usuario: proyectogrupo0
+        Password: adminproyecto!
+
+ssh proyectogrupo0@ssh-proyectogrupo0.alwaysdata.net
+
+____________________________
+
+        COMANDOS GIT
+____________________________
+
+git init
+git clone https://github.com/Manuel-es/GRUPO0DAW26.git
+mv GRUPO0DAW26/app ./app
+mv GRUPO0DAW26/web/ ./www/
+mv GRUPO0DAW26/index.php ./www
+rm www/index.html
